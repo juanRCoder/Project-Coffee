@@ -1,8 +1,8 @@
 # Proyecto Simple Coffee Listing 🚀
 ![Page main of the project](background_Simple_Coffee_Listing.png)
-## Tiempo de desarrollo:
+## Development Time:
 - Start: 16/12/2023
-- En desarrollo
+- In development
 
 ## API Coffee:
 - https://raw.githubusercontent.com/devchallenges-io/web-project-ideas/main/front-end-projects/data/simple-coffee-listing-data.json
