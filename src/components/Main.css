@@ -1,0 +1,60 @@
+.main {
+  background-color: #111315;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.bgCafe {
+  height: 160px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.boxInfo {
+  height: 87%;
+  width: 59%;
+  background-color: #1b1d1f;
+  margin-top: 18px;
+  border-radius: 15px;
+  position: relative;
+  padding-top: 7px;
+}
+.vector {
+  position: absolute;
+  z-index: 0;
+  top: 3px;
+  right: 150px;
+  transform: scale(0.8);
+  width: 286px;
+}
+.title {
+  font-family: "DM Sans", sans-serif;
+  color: #fef7ee;
+  text-align: center;
+  font-size: 23px;
+  padding-top: 59px;
+  position: relative;
+}
+.paragraph {
+  font-family: "DM Sans", sans-serif;
+  color: #6f757c;
+  text-align: center;
+  margin: 12px 179px 0px 179px;
+  position: relative;
+  font-size: 14px;
+}
+.boxButton {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.boxButton > button {
+  font-family: "DM Sans", sans-serif;
+  color: #FEF7EE;
+  padding: 6px 12px;
+  margin: 8px 10px 0px 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
