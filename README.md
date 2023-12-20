@@ -65,12 +65,12 @@ The resources provided by the client were as follows:
 #### APIS:
 API Coffee
   ```sh
-   [https://raw.githubusercontent.com/devchallenges-io/web-project-ideas/main/front-end-projects/data/simple-coffee-listing-data.json](https://raw.githubusercontent.com/devchallenges-io/web-project-ideas/main/front-end-projects/data/simple-coffee-listing-data.json)
+   https://raw.githubusercontent.com/devchallenges-io/web-project-ideas/main/front-end-projects/data/simple-coffee-listing-data.json
    ```
 
 API Data
   ```sh
-   [https://github.com/devchallenges-io/web-project-ideas/blob/main/front-end-projects/simple-coffee-listing.json](https://github.com/devchallenges-io/web-project-ideas/blob/main/front-end-projects/simple-coffee-listing.json)
+   https://github.com/devchallenges-io/web-project-ideas/blob/main/front-end-projects/simple-coffee-listing.json
    ```
 
 ## Contact
