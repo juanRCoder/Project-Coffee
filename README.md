@@ -59,9 +59,9 @@ These are the project's designs optimized for both mobile and tablet viewing, co
 ## Resources Provided
 The resources provided by the client were as follows:
 #### Files SVG:
-1. Start-fill: [icon-minus.svg](./src/assets/Start-fill.svg)
-2. Start: [icon-plus.svg](./src/assets/Start.svg)
-3. vector: [icon-star.svg](./src/assets/vector.svg)
+1. Start-fill: [Start-fill.svg](./src/assets/Start-fill.svg)
+2. Start: [Start.svg](./src/assets/Start.svg)
+3. vector: [vector.svg](./src/assets/vector.svg)
 #### APIS:
 API Coffee
   ```sh
