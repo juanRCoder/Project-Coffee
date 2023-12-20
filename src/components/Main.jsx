@@ -30,7 +30,7 @@ function Main() {
   };
 
   return (
-    <main className="main">
+    <main className={click === 2 ? "main2" : "main"}>
       <img src={bgCafe} alt="bgCafe" title="bgCafe" className="bgCafe" />
       <div className="boxInfo">
         <img src={vector} alt="vector" title="vector" className="vector" />
@@ -50,7 +50,9 @@ function Main() {
             {content[3]?.content}
           </button>
         </div>
-        <Coffees />
+        <div className="coffeeContainer">
+          <Coffees disponible={click} />
+        </div>
       </div>
     </main>
   );
