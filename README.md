@@ -74,9 +74,9 @@ API Data
    ```
 
 ## Contact
-> juanRCoder 
->> Instagram : [@juanrcoder](https://www.instagram.com/juanrcoder/)] 
->> Linkedin : [@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)]
+### juanRCoder 
+> Instagram : [@juanrcoder](https://www.instagram.com/juanrcoder/) 
+> Linkedin : [@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)
 
 Project Link: [https://juanrcoder.github.io/Project-Coffee/](https://juanrcoder.github.io/Project-Coffee/)
 
